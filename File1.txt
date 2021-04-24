@@ -1,1 +1,10 @@
 B22 Learning Git
+
+yay we made first commit
+commit is almost like takine
+a picture of the changes
+at certain moment compared 
+to prevoius moment
+
+it contains the changes you made
+and the author of the changes
